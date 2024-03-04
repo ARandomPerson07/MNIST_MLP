@@ -1,0 +1,1 @@
+Following the tutorials at PyTorch's Introduction to PyTorch, but using an alternate dataset (MNIST instead of MNIST-fashion), we use a simple MLP with two Linear layers and ReLU, and a Stochastic Gradient Descent optimizer to train a simple neural network to learn to recognize handwritten digits.
